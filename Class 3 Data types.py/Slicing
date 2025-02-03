@@ -1,0 +1,2 @@
+a = "Agastya"
+print("reverse of a is",a[-1::-1])
